@@ -1,0 +1,14 @@
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\config\AwsS3Config.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\config\SecurityConfig.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\controllers\CursoController.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\controllers\InscripcionController.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\controllers\MicroservicioController.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\controllers\S3Controller.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\dto\InscripcionRequest.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\dto\InscripcionResponse.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\dto\ResumenInscripcionDTO.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\entity\Curso.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\MicroservicioApplication.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\repository\CursoRepository.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\service\CursoService.java
+C:\Users\fifam\OneDrive - Fundacion Instituto Profesional Duoc UC\CloudNative\Semana5\EjemploMicroservicio1-main\src\main\java\cl\duoc\ejemplo\microservicio\service\S3Service.java

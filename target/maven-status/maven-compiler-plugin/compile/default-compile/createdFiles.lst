@@ -1,0 +1,16 @@
+cl\duoc\ejemplo\microservicio\controllers\InscripcionController.class
+cl\duoc\ejemplo\microservicio\dto\ResumenInscripcionDTO.class
+cl\duoc\ejemplo\microservicio\config\SecurityConfig.class
+cl\duoc\ejemplo\microservicio\dto\InscripcionResponse$DetalleCurso.class
+cl\duoc\ejemplo\microservicio\MicroservicioApplication.class
+cl\duoc\ejemplo\microservicio\controllers\MicroservicioController.class
+cl\duoc\ejemplo\microservicio\service\CursoService.class
+cl\duoc\ejemplo\microservicio\controllers\CursoController.class
+cl\duoc\ejemplo\microservicio\repository\CursoRepository.class
+cl\duoc\ejemplo\microservicio\entity\Curso.class
+cl\duoc\ejemplo\microservicio\dto\InscripcionRequest.class
+cl\duoc\ejemplo\microservicio\config\AwsS3Config.class
+cl\duoc\ejemplo\microservicio\controllers\S3Controller.class
+cl\duoc\ejemplo\microservicio\dto\InscripcionResponse.class
+cl\duoc\ejemplo\microservicio\service\S3Service.class
+cl\duoc\ejemplo\microservicio\dto\ResumenInscripcionDTO$CursoDTO.class
